@@ -5,8 +5,16 @@
     <br></br>
     <span v-if="users">
     <!-- EXERCISE 02: ITERATE OVER ITEMS-->
-    <!-- ANSWER -->
-    <li>Got the users</li>
+    <p>Got the users</p>
+    <!-- 
+      * Instruction: Add in the li on line 14 the directive 
+        required to iterate over the array called "users". 
+        *Leave the content between the li tags as it is.
+    -->
+    
+      <li > 
+      Username here
+    </li>
     </span>
   </div>
 </template>
